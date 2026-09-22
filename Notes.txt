@@ -1,0 +1,17 @@
+https://github.com/daws-92s
+https://forms.joindevops.com/92s-live
+
+https://docs.google.com/document/d/133xvc0R5O5G-WDjMrnv9JL8LMio9cWmKK8atQbQtb4I/edit?pli=1&tab=t.0
+
+git config --global user.name "KYusuf07"
+git config --global user.email "kyusufknl@gmail.com"
+git config --global --list
+
+git clone https://github.com/daws-92s/running-notes.git
+git clone https://github.com/daws-92s/concepts.git
+git clone https://github.com/daws-92s/.github.git
+
+
+https://github.com/daws-92s/running-notes.git
+https://github.com/daws-92s/concepts.git
+https://github.com/daws-92s/.github.git
