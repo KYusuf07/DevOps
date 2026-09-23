@@ -17,6 +17,12 @@ https://github.com/daws-92s/running-notes.git
 https://github.com/daws-92s/concepts.git
 https://github.com/daws-92s/.github.git
 
+
+git remote add origin https://github.com/daws-92s/running-notes.git
+git pull origin main
+
+
+
 git remote set-url origin https://github.com/KYusuf07/DevOps.git
 git add .
 git commit -m "Appending running notes sessions"
