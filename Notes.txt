@@ -7,6 +7,7 @@ git config --global user.name "KYusuf07"
 git config --global user.email "kyusufknl@gmail.com"
 git config --global --list
 
+
 git clone https://github.com/daws-92s/running-notes.git
 git clone https://github.com/daws-92s/concepts.git
 git clone https://github.com/daws-92s/.github.git
@@ -15,3 +16,8 @@ git clone https://github.com/daws-92s/.github.git
 https://github.com/daws-92s/running-notes.git
 https://github.com/daws-92s/concepts.git
 https://github.com/daws-92s/.github.git
+
+git remote set-url origin https://github.com/KYusuf07/DevOps.git
+git add .
+git commit -m "Appending running notes sessions"
+git push origin main
