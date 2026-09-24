@@ -20,8 +20,8 @@ https://github.com/daws-92s/.github.git
 
 
 
-
+git remote add origin https://github.com/KYusuf07/DevOps.git
 git remote set-url origin https://github.com/KYusuf07/DevOps.git
 git add .
 git commit -m "Appending running notes sessions"
-git push origin main
+git push -u origin main
